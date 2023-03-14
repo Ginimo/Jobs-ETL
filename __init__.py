@@ -1,0 +1,1 @@
+print("Jobagent Daten werden extrahiert und transformiert")
